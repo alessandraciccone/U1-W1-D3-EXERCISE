@@ -1,0 +1,66 @@
+body{
+    font-family: sans-serif;
+      margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+header {
+    text-align:center
+}
+
+
+.logo{
+  width: 10%;
+  height: 10%;
+}
+
+
+h1{
+    text-align: center;
+}
+    .div1{
+        background-color: lightgoldenrodyellow;
+    }
+
+.wow{
+    font-family:serif;
+}
+
+.focaccia{
+    width: 40%;
+    height:40%;
+    border-radius: 3%;
+}
+.image{
+    color: grey
+}
+
+
+
+
+.onions{
+    color:cadetblue
+}
+.psection{
+    color:brown;
+    width: 85%
+}
+
+ul{
+    line-height: 2;
+}
+
+
+
+footer a {
+    color:cadetblue
+}
+
+.line{
+    border-color:rgb(67, 252, 252);
+}
+hr{
+    border-color: rgb(252, 207, 190);
+}
